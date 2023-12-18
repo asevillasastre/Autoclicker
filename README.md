@@ -10,7 +10,7 @@ You should install the following Python libraries:
 - random
 - pyinput
 - winsound
-  
+
 You can use the well-known:
 > python -m pip install -U [library]
 
