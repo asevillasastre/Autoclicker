@@ -19,3 +19,10 @@ You can use the well-known:
 - stop_key: ditto to end it
 - delay_interval: interval of seconds between which an autoclick will be done randomly
 - pulsed_key: key on which autoclicking will be done
+
+### Author
+Antonio Sevilla Sastre
+
+-----------------------------------------------------------------------------
+
+You can check [my other projects](https://github.com/asevillasastre?tab=repositories) and follow me on [LinkedIn](https://www.linkedin.com/in/asevillasastre/)!
