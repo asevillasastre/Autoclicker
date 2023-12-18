@@ -16,7 +16,7 @@ You can use the well-known:
 
 You can obtain pip [here](https://pypi.org/project/pip/).
 
-### How to custom?
+### How to customize?
 You should modify the following parameters in [autoclicker-script.py](https://github.com/asevillasastre/Autoclicker/blob/main/autoclicker-script.py):
 - start_stop_key: key you have to press to start autoclicking
 - stop_key: ditto to end it
