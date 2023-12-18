@@ -15,6 +15,7 @@ You can use the well-known:
 > python -m pip install -U [library]
 
 ### How to configure it
+You should modify the following parameters in autoclicker-script.py:
 - start_stop_key: key you have to press to start autoclicking
 - stop_key: ditto to end it
 - delay_interval: interval of seconds between which an autoclick will be done randomly
