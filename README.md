@@ -11,7 +11,7 @@ You should install the following python libraries:
 - pyinput
 - winsound
   
-You can use the well-known
+You can use the well-known:
 > python -m pip install -U [library]
 
 ### parameters
