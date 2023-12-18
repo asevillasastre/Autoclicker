@@ -14,7 +14,7 @@ You should install the following Python libraries:
 You can use the well-known:
 > python -m pip install -U [library]
 
-You can obtain pip [here](https://pypi.org/project/pip/)
+You can obtain pip [here](https://pypi.org/project/pip/).
 
 ### How to configure it
 You should modify the following parameters in [autoclicker-script.py](https://github.com/asevillasastre/Autoclicker/blob/main/autoclicker-script.py):
