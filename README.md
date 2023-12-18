@@ -3,7 +3,7 @@
 ### Advice
 Keep in mind that this code is an autoclicker, ****make responsible and moral use of it, taking into account that many companies, services and games prohibit it!****
 
-### How to install
+### How to install?
 You should install the following Python libraries:
 - time
 - threading
@@ -16,7 +16,7 @@ You can use the well-known:
 
 You can obtain pip [here](https://pypi.org/project/pip/).
 
-### How to configure it
+### How to custom?
 You should modify the following parameters in [autoclicker-script.py](https://github.com/asevillasastre/Autoclicker/blob/main/autoclicker-script.py):
 - start_stop_key: key you have to press to start autoclicking
 - stop_key: ditto to end it
