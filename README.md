@@ -10,8 +10,9 @@ You should install the following python modules:
 - random
 - pyinput
 - winsound
+  
 You can use the well-known
->python -m pip install [options] <requirement specifier> [package-index-options]
+> python -m pip install -U [library]
 
 ### parameters
 
