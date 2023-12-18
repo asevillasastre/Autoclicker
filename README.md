@@ -1,10 +1,10 @@
 # Autoclicker Antonio Sevilla Sastre
 
 ### Advice
-Keep in mind that this code is essentially an autoclicker, make responsible and moral use of it, taking into account that many companies, services and games prohibit it!
+**Keep in mind that this code is essentially an autoclicker, make responsible and moral use of it, taking into account that many companies, services and games prohibit it!**
 
 ### How to install
-You should install the following python modules:
+You should install the following python libraries:
 - time
 - threading
 - random
