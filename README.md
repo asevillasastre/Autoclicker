@@ -1,10 +1,20 @@
-# README autoclicker_ass_24-10-23.py
+# Autoclicker 
 
-###- tenga en cuenta que el presente codigo es esencialmente un autoclicker, haga un uso responsable y moral del mismo, teniendo en cuenta que muchas empresas, servicios y juegos lo prohiben
+### Advice
+**Keep in mind that this code is an autoclicker, make responsible and moral use of it, taking into account that many companies, services and games prohibit it!**
 
-###- debe instalar time, threading, random, pyinput y winsound
+### How to install
+You should install the following python libraries:
+- time
+- threading
+- random
+- pyinput
+- winsound
+  
+You can use the well-known
+> python -m pip install -U [library]
 
-###- parametros:
+### parameters
 
 - start_stop_key: tecla que has de pulsar para iniciar el autoclickado
 - stop_key: idem para finalizarlo
