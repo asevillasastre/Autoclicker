@@ -1,4 +1,4 @@
-# Autoclicker Antonio Sevilla Sastre
+# Autoclicker 
 
 ### Advice
 **Keep in mind that this code is an autoclicker, make responsible and moral use of it, taking into account that many companies, services and games prohibit it!**
