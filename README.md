@@ -1,7 +1,7 @@
 # Autoclicker 
 
 ### Advice
-Keep in mind that this code is an autoclicker, ****make responsible and moral use of it and take into account that many companies, services and games prohibit it!****
+Keep in mind that this code is an autoclicker. ****Make responsible and moral use of it and take into account that it is forbidden by many companies, services and games!****
 
 ### How to install?
 You should install the following Python libraries:
