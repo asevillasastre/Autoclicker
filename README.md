@@ -20,8 +20,8 @@ You can obtain pip [here](https://pypi.org/project/pip/).
 You should modify the following parameters in [autoclicker-script.py](https://github.com/asevillasastre/Autoclicker/blob/main/autoclicker-script.py):
 - start_stop_key: key you have to press to start autoclicking
 - stop_key: key you have to press to end it
-- delay_interval: interval of seconds in which an autoclick will be executed randomly
-- pulsed_key: key on which autoclicking will be executed
+- delay_interval: interval of seconds in which an autoclick will be performed randomly
+- pulsed_key: key on which autoclicking will be performed
 
 ### Author
 Antonio Sevilla Sastre
